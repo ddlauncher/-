@@ -34,3 +34,11 @@ O **DDLauncher** foi desenvolvido para oferecer uma experiência rápida, leve e
 - **Java JDK/JRE** instalado (Java 8 para versões como 1.8.9 ou Java 17+ para versões mais recentes).
 
 ---
+## 📜 Termos de Uso e Licença
+
+O **DDLauncher** é um software gratuito para uso pessoal, porém de **código fechado (Proprietary Software)**.
+
+- 🟢 **Permitido:** Baixar, executar e compartilhar o arquivo executável original gratuitamente.
+- 🔴 **Proibido:** Descompilar, modificar, redistribuir partes do programa, realizar engenharia reversa ou comercializar a aplicação sem autorização prévia.
+
+Todos os direitos reservados © 2026.
