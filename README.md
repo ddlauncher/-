@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-blue?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.8.9%20%2B-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft%20%2B-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white)
 ![License](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)
 
 </div>
